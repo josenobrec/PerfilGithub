@@ -75,6 +75,7 @@ https://www.instagram.com/p/CPjUBhXDNEE/
 
 SIMBOLOS
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+
 https://dev.to/envoy_/150-badges-for-github-pnk
 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
